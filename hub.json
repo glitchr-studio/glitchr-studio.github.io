@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "Glitch Art",
+  "logo": "https://avatars.githubusercontent.com/u/130585112?v=4",
+  "color": "#fc6875",
+  "sources": [
+    {"name": "Glitch Art Studio", "type": "git", "url": "https://github.com/glitchr-studio/unity-studio.git#v0.1.0"},
+    {"name": "Glitch Art Hub", "type": "git", "url": "https://github.com/glitchr-studio/unity-hub.git"},
+    {"name": "Glitch Art licensing", "type": "git", "url": "https://github.com/glitchr-studio/unity-licensing.git"}
+  ]
+}
