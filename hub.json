@@ -4,7 +4,7 @@
   "logo": "https://avatars.githubusercontent.com/u/130585112?v=4",
   "color": "#fc6875",
   "sources": [
-    {"name": "Glitch Art Toolkit", "type": "git", "url": "https://github.com/glitchr-studio/unity-toolkit.git#v0.3.0"},
+    {"name": "Glitch Art Toolkit", "type": "git", "url": "https://github.com/glitchr-studio/unity-toolkit.git#v0.4.0"},
     {"name": "Forge Store", "type": "git", "url": "https://github.com/glitchr-forge/unity-store.git"},
     {"name": "Forge Seal", "type": "git", "url": "https://github.com/glitchr-forge/unity-licensing.git"}
   ]
